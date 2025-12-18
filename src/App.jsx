@@ -171,7 +171,7 @@ function App() {
         <Gallery isActive={currentPage === 4} />
         <section className="final">
           <h2 className="final-message">✨Be Your Best — [Gautam] ✨</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <p className="final-subtitle">Pothaaaaaa ✨</p>
         </section>
       </div>
 
