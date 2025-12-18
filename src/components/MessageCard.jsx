@@ -13,19 +13,19 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `Bhavya,
 
-Your personalized birthday message goes here.
+Wishing you a very Happy Birthday jhalli 🎂🎉  
+May your life be filled with happiness, success, and good health.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+You are an amazing person and today is all about celebrating YOU.
+bhagwan tumhe bahut bahut akal bakshe aur unka thankyou bhi kro ki mere jaisa insaan mila tumhe
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Enjoy your special day to the fullest 🥳✨
 
-Happy Birthday! 🎉
+Happy Birthday once again! 🎊
 
-— [Your Name]`;
+- The Great Gautam`;
 
   // Handle page transitions
   useEffect(() => {
