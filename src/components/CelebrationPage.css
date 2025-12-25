@@ -8,7 +8,7 @@
   width: 100dvw;
   height: 100vh;
   height: 100dvh;
-  background: linear-gradient(135deg, #ffeef8 0%, #ffe5f3 50%, #ffd6ed 100%);
+  background: linear-gradient(135deg, #c7d2fe 0%, #e0f2fe 100%);
   display: flex;
   flex-direction: column;
   align-items: center;
