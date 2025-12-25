@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = Yo madam,
+  const message = `Yo madam,
 
 Wishing you a very Happy Birthday jhalli 🎂🎉  
 
