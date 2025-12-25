@@ -13,19 +13,21 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Bhavya,
+  const message = Yo madam,
 
 Wishing you a very Happy Birthday jhalli 🎂🎉  
-May your life be filled with happiness, success, and good health.
 
-You are an amazing person and today is all about celebrating YOU.
+you don't realise par you are the bestestttt person in my life or in any other perspective like qualities like whether it is responsibility regarding family,friends or how you genuinely care none matters what you show or like bahut obedient or samajhdar hai tu responsibility ko samajhti hai apni or like your sweet introvert nature etc etc bahut si khoobiya h 
+tuuu hai besttt bss tujhe pta nhi h
+
+You areeee annn amazing person and today is all about celebrating YOU.
 bhagwan tumhe bahut bahut akal bakshe aur unka thankyou bhi kro ki mere jaisa insaan mila tumhe
 
-Enjoy your special day to the fullest 🥳✨
+Enjoy your special day to the fullest and life ahead 🥳✨
 
 Happy Birthday once again! 🎊
 
-- The Great Gautam`;
+- The Great Gautam😎`;
 
   // Handle page transitions
   useEffect(() => {
